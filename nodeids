@@ -1,0 +1,12 @@
+[
+  "tests/test_compliance.py::test_10_api_analyze_contract",
+  "tests/test_compliance.py::test_1_pdf_extraction",
+  "tests/test_compliance.py::test_2_smart_chunking",
+  "tests/test_compliance.py::test_3_embedding_generation",
+  "tests/test_compliance.py::test_4_vector_search",
+  "tests/test_compliance.py::test_5_contract_clause_extraction",
+  "tests/test_compliance.py::test_6_conflict_detection",
+  "tests/test_compliance.py::test_7_full_compliance_checking",
+  "tests/test_compliance.py::test_8_not_found_detection_aes256",
+  "tests/test_compliance.py::test_9_api_health"
+]

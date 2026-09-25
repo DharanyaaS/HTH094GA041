@@ -1,0 +1,13 @@
+Company Customer Data Agreement
+
+1. Data Access
+Employees may access customer data whenever necessary.
+
+2. Data Sharing
+Customer information may be shared with external business partners when required for business operations.
+
+3. Data Retention
+Customer records will be retained indefinitely.
+
+4. Data Encryption
+Customer data must be encrypted using AES-256.
